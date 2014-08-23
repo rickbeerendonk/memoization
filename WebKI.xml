@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CacheFactory class">
+    <HelpKINode Title="CacheFactory Class" Url="html/T_Beerendonk_Memoization_CacheFactory.htm" />
+    <HelpKINode Title="about CacheFactory class" Url="html/T_Beerendonk_Memoization_CacheFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Beerendonk_Memoization_CacheFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CacheFactory.LimitlessCache(Of TKey, TValue) method" Url="html/M_Beerendonk_Memoization_CacheFactory_LimitlessCache__2.htm" />
+  <HelpKINode Title="CacheFactory.LimitlessCache&lt;TKey, TValue&gt; method" Url="html/M_Beerendonk_Memoization_CacheFactory_LimitlessCache__2.htm" />
+  <HelpKINode Title="Clear method" Url="html/M_Beerendonk_Memoization_ICache_2_Clear.htm" />
+  <HelpKINode Title="FuncExtensions class">
+    <HelpKINode Title="FuncExtensions Class" Url="html/T_Beerendonk_Memoization_FuncExtensions.htm" />
+    <HelpKINode Title="about FuncExtensions class" Url="html/T_Beerendonk_Memoization_FuncExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Beerendonk_Memoization_FuncExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FuncExtensions.Memoize method" Url="html/Overload_Beerendonk_Memoization_FuncExtensions_Memoize.htm" />
+  <HelpKINode Title="GetOrAdd method" Url="html/M_Beerendonk_Memoization_ICache_2_GetOrAdd.htm" />
+  <HelpKINode Title="ICache(Of TKey, TValue) interface">
+    <HelpKINode Title="ICache(TKey, TValue) Interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+    <HelpKINode Title="about ICache(Of TKey, TValue) interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Beerendonk_Memoization_ICache_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICache(Of TKey, TValue).Clear method" Url="html/M_Beerendonk_Memoization_ICache_2_Clear.htm" />
+  <HelpKINode Title="ICache(Of TKey, TValue).GetOrAdd method" Url="html/M_Beerendonk_Memoization_ICache_2_GetOrAdd.htm" />
+  <HelpKINode Title="ICache&lt;TKey, TValue&gt; interface">
+    <HelpKINode Title="ICache(TKey, TValue) Interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+    <HelpKINode Title="about ICache&lt;TKey, TValue&gt; interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Beerendonk_Memoization_ICache_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICache&lt;TKey, TValue&gt;.Clear method" Url="html/M_Beerendonk_Memoization_ICache_2_Clear.htm" />
+  <HelpKINode Title="ICache&lt;TKey, TValue&gt;.GetOrAdd method" Url="html/M_Beerendonk_Memoization_ICache_2_GetOrAdd.htm" />
+  <HelpKINode Title="LimitlessCache(Of TKey, TValue) method" Url="html/M_Beerendonk_Memoization_CacheFactory_LimitlessCache__2.htm" />
+  <HelpKINode Title="LimitlessCache&lt;TKey, TValue&gt; method" Url="html/M_Beerendonk_Memoization_CacheFactory_LimitlessCache__2.htm" />
+  <HelpKINode Title="Memoize method" Url="html/Overload_Beerendonk_Memoization_FuncExtensions_Memoize.htm" />
+  <HelpKINode Title="Beerendonk.Memoization namespace" Url="html/N_Beerendonk_Memoization.htm" />
+  <HelpKINode Title="Beerendonk.Memoization.CacheFactory class" Url="html/T_Beerendonk_Memoization_CacheFactory.htm" />
+  <HelpKINode Title="Beerendonk.Memoization.FuncExtensions class" Url="html/T_Beerendonk_Memoization_FuncExtensions.htm" />
+  <HelpKINode Title="Beerendonk.Memoization.ICache(Of TKey, TValue) interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+  <HelpKINode Title="Beerendonk.Memoization.ICache&lt;TKey, TValue&gt; interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm" />
+</HelpKI>

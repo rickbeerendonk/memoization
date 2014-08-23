@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="28fed340-e675-478b-89e0-3e6bbabaa003" Title="Beerendonk.Memoization" Url="html/N_Beerendonk_Memoization.htm">
+    <HelpTOCNode Id="c7950b75-a458-4035-9dba-fc3255af360a" Title="CacheFactory Class" Url="html/T_Beerendonk_Memoization_CacheFactory.htm">
+      <HelpTOCNode Id="e25e2d7e-7979-4c7f-ad6b-b7ef057ada90" Title="CacheFactory Methods" Url="html/Methods_T_Beerendonk_Memoization_CacheFactory.htm">
+        <HelpTOCNode Title="LimitlessCache(TKey, TValue) Method " Url="html/M_Beerendonk_Memoization_CacheFactory_LimitlessCache__2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d94fb7a1-a652-4a80-b504-2cc9448734f2" Title="FuncExtensions Class" Url="html/T_Beerendonk_Memoization_FuncExtensions.htm">
+      <HelpTOCNode Id="f514695b-5898-4eb0-ae39-4e4e232aa2c8" Title="FuncExtensions Methods" Url="html/Methods_T_Beerendonk_Memoization_FuncExtensions.htm">
+        <HelpTOCNode Id="465f078a-fcd7-4133-a0b7-1e72334ce8a1" Title="Memoize Method " Url="html/Overload_Beerendonk_Memoization_FuncExtensions_Memoize.htm">
+          <HelpTOCNode Title="Memoize(T, TResult) Method (Func(T, TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__2.htm" />
+          <HelpTOCNode Title="Memoize(T1, T2, TResult) Method (Func(T1, T2, TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__3.htm" />
+          <HelpTOCNode Title="Memoize(T1, T2, T3, TResult) Method (Func(T1, T2, T3, TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__4.htm" />
+          <HelpTOCNode Title="Memoize(T, TResult) Method (Func(T, TResult), ICache(T, TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__2_1.htm" />
+          <HelpTOCNode Title="Memoize(T1, T2, TResult) Method (Func(T1, T2, TResult), ICache(Tuple(T1, T2), TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__3_1.htm" />
+          <HelpTOCNode Title="Memoize(T1, T2, T3, TResult) Method (Func(T1, T2, T3, TResult), ICache(Tuple(T1, T2, T3), TResult))" Url="html/M_Beerendonk_Memoization_FuncExtensions_Memoize__4_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="edf6d3ed-59e4-4ecb-b203-2bf2c61c1f3d" Title="ICache(TKey, TValue) Interface" Url="html/T_Beerendonk_Memoization_ICache_2.htm">
+      <HelpTOCNode Id="cccfc4d1-989f-4b54-888f-2670627515bf" Title="ICache(TKey, TValue) Methods" Url="html/Methods_T_Beerendonk_Memoization_ICache_2.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Beerendonk_Memoization_ICache_2_Clear.htm" />
+        <HelpTOCNode Title="GetOrAdd Method " Url="html/M_Beerendonk_Memoization_ICache_2_GetOrAdd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
